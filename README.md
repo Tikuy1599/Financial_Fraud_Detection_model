@@ -1,4 +1,3 @@
-# Financial_Fraud_Detection_model
 # Fraud Detection in Financial Transactions
 
 ## Overview
